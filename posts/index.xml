@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>Introduction This is bold text, and this is emphasized text. Test 1 Test 2&#xA;Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/second-test/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/second-test/</guid>
+      <description>Introduction Hello&#xA;Test&#xA;test</description>
     </item>
   </channel>
 </rss>
